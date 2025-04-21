@@ -1,6 +1,6 @@
-# trabalho_m1
+# Trabalho Desenvolvimento Mobile
 
-A new Flutter project.
+Trabalho para validação da nota M1
 
 ## Getting Started
 
